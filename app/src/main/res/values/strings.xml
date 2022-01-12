@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MayTinh</string>
+    <string name="chia">Chia</string>
+    <string name="nhan">Nhân</string>
+    <string name="tru">Trừ</string>
+    <string name="cong">Cộng</string>
+    <string name="kq">Kết quả</string>
+</resources>
